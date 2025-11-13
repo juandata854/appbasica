@@ -98,7 +98,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown('<a id="inicio"></a><br><br>', unsafe_allow_html=True)
-st.image("img\zonas_no_interconectadas.png")
+st.image("img/zonas_no_interconectadas.png")
 
 
 ########################################################################
@@ -296,3 +296,4 @@ with st.sidebar.container():
     st.html('<br><br><br><br>')
     st.markdown('---')
     st.html('<small><a href="mailto:majoca854@gmail.com" target="_blank">Desarrollado por: Juan Camilo Loaiza</a></small>')
+
